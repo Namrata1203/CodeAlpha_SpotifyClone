@@ -1,6 +1,6 @@
 # Music Player
 
-**Live Demo**: [https://zippy-zuccutto-30ccde.netlify.app/](https://zippy-zuccutto-30ccde.netlify.app/)
+**Live Demo**: https://spotiifyy-clone.netlify.app/
 
 A high-fidelity, interactive music player built with React, Vite, Tailwind CSS (v4), and Framer Motion. This application offers a beautiful, modern Spotify-inspired user interface with fully functional audio playback controls, custom playlist creation and management, dynamic lyrics synchronization, search filtering, and persistence.
 
